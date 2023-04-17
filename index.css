@@ -1,0 +1,25 @@
+body{
+    box-sizing: border-box;
+    font-family: 'Permanent Marker',cursive;
+    height: 100vh;
+    text-align: center;
+    font-size: larger;
+    font-weight: 100%;
+
+}
+
+.h1{
+    background-image: linear-gradient( to right,black,brown,red,orange,yellow,green,blue,purple,pink);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:rgb(119, 102, 4);
+    border:3px;
+}
+button{
+    padding: 5px, 15px,5px, 15px;
+    border:1px black solid;
+    border-radius: 3px;
+    background-color: transparent;
+    color:black;
+    text-transform:uppercase;
+}
